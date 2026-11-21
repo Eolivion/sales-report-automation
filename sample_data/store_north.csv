@@ -1,0 +1,125 @@
+Date,Product,Qty,Unit Price,Customer
+2026-04-05,Wireless Mouse,3,24.90,Vertex Labs
+2026-05-30,  Webcam HD ,1,59.90,Pixel Studio
+2026-05-12,EXTERNAL SSD 1TB,5,119.00,Acme Corp
+2026-06-15,  Laptop Stand ,1,45.00,Pixel Studio
+2026-05-18,  Headset Pro ,5,129.00,Greenfield Clinic
+2026-06-03,Laptop 14in,6,1249.00,Northwind Traders
+2026-01-28,LAPTOP 14IN,3,1249.00,Vertex Labs
+2026-03-23,mechanical keyboard,5,89.00,Blue Ocean Ltd
+2026-04-26,Laptop 14in,1,1249.00,Blue Ocean Ltd
+2026-01-08,Laptop 14in,1,1249.00,Acme Corp
+2026-05-12,headset pro,,129.00,Blue Ocean Ltd
+2026-02-15,wireless mouse,3,24.90,Greenfield Clinic
+2026-04-09,Mechanical Keyboard,3,89.00,Greenfield Clinic
+2026-01-25,mechanical keyboard,6,89.00,Pixel Studio
+2026-03-22,laptop stand,2,45.00,Northwind Traders
+2026-05-21,laptop stand,6,45.00,Vertex Labs
+2026-06-16,Mechanical Keyboard,3,89.00,Vertex Labs
+2026-05-17,USB-C Hub,2,39.50,Harbor Logistics
+2026-02-08,  Headset Pro ,5,129.00,Harbor Logistics
+2026-01-07,Headset Pro,3,129.00,Pixel Studio
+2026-01-29,USB-C Hub,5,39.50,Northwind Traders
+2026-04-17,External SSD 1TB,3,119.00,Vertex Labs
+2026-06-14,  External SSD 1TB ,2,119.00,Vertex Labs
+2026-05-20,EXTERNAL SSD 1TB,3,119.00,Summit Accounting
+2026-01-03,  Laptop Stand ,1,45.00,Greenfield Clinic
+2026-02-13,headset pro,1,129.00,Acme Corp
+2026-04-23,MECHANICAL KEYBOARD,6,89.00,Northwind Traders
+2026-01-19,Mechanical Keyboard,4,89.00,Northwind Traders
+2026-06-15,Wireless Mouse,5,24.90,Acme Corp
+2026-02-21,Webcam HD,3,59.90,Pixel Studio
+2026-04-17,Mechanical Keyboard,6,89.00,Greenfield Clinic
+2026-01-07,WIRELESS MOUSE,5,24.90,Vertex Labs
+2026-05-26,  USB-C Hub ,3,39.50,Northwind Traders
+2026-04-19,Mechanical Keyboard,5,89.00,Vertex Labs
+2026-02-16,laptop 14in,5,1249.00,Acme Corp
+2026-03-02,Mechanical Keyboard,1,89.00,Northwind Traders
+2026-04-21,  Headset Pro ,2,129.00,Northwind Traders
+2026-04-17,  Webcam HD ,4,59.90,Summit Accounting
+2026-02-17,WEBCAM HD,6,59.90,Blue Ocean Ltd
+2026-04-26,WIRELESS MOUSE,5,24.90,Blue Ocean Ltd
+2026-06-18,Wireless Mouse,1,24.90,Harbor Logistics
+2026-04-18,usb-c hub,6,39.50,Harbor Logistics
+2026-02-09,LAPTOP 14IN,5,1249.00,Harbor Logistics
+2026-03-16,Headset Pro,3,129.00,Acme Corp
+2026-03-25,LAPTOP 14IN,5,1249.00,Vertex Labs
+2026-01-05,WIRELESS MOUSE,3,24.90,Vertex Labs
+2026-04-03,HEADSET PRO,2,129.00,Northwind Traders
+2026-06-01,Wireless Mouse,6,24.90,Harbor Logistics
+2026-02-03,USB-C HUB,1,39.50,Blue Ocean Ltd
+2026-06-05,WIRELESS MOUSE,6,24.90,Vertex Labs
+2026-06-03,usb-c hub,5,39.50,Summit Accounting
+2026-03-11,HEADSET PRO,4,129.00,Summit Accounting
+2026-04-18,usb-c hub,6,39.50,Harbor Logistics
+2026-02-01,LAPTOP STAND,3,45.00,Summit Accounting
+2026-04-20,External SSD 1TB,6,119.00,Blue Ocean Ltd
+2026-05-11,external ssd 1tb,4,119.00,Summit Accounting
+2026-03-07,headset pro,2,129.00,Harbor Logistics
+N/A,EXTERNAL SSD 1TB,5,119.00,Northwind Traders
+2026-06-21,laptop stand,6,45.00,Pixel Studio
+2026-02-14,  Webcam HD ,3,59.90,Vertex Labs
+2026-02-04,Webcam HD,4,59.90,Harbor Logistics
+2026-05-01,Headset Pro,2,129.00,Vertex Labs
+2026-01-09,HEADSET PRO,2,129.00,Greenfield Clinic
+2026-05-14,EXTERNAL SSD 1TB,4,119.00,Pixel Studio
+2026-04-28,LAPTOP STAND,2,45.00,Northwind Traders
+2026-01-17,  Webcam HD ,3,59.90,Northwind Traders
+2026-03-09,Headset Pro,3,129.00,Greenfield Clinic
+2026-01-22,Mechanical Keyboard,2,89.00,Summit Accounting
+2026-05-27,Laptop Stand,1,45.00,Summit Accounting
+2026-01-15,EXTERNAL SSD 1TB,2,119.00,Greenfield Clinic
+2026-02-18,laptop stand,2,45.00,Summit Accounting
+2026-02-13,headset pro,1,129.00,Acme Corp
+2026-01-26,LAPTOP 14IN,1,1249.00,Harbor Logistics
+2026-01-24,Headset Pro,4,129.00,Vertex Labs
+2026-02-15,Mechanical Keyboard,5,89.00,Acme Corp
+2026-06-08,Laptop 14in,1,1249.00,Blue Ocean Ltd
+2026-03-12,Webcam HD,5,59.90,Blue Ocean Ltd
+2026-01-08,  Laptop Stand ,4,45.00,Greenfield Clinic
+2026-01-23,  Webcam HD ,5,59.90,Northwind Traders
+2026-02-11,Laptop 14in,6,1249.00,Greenfield Clinic
+2026-03-06,HEADSET PRO,3,129.00,Pixel Studio
+2026-04-27,WEBCAM HD,5,59.90,Acme Corp
+2026-02-16,External SSD 1TB,4,119.00,Vertex Labs
+2026-05-31,laptop 14in,3,1249.00,Summit Accounting
+2026-02-03,WIRELESS MOUSE,6,24.90,Harbor Logistics
+2026-04-02,Headset Pro,5,129.00,Greenfield Clinic
+2026-05-20,laptop 14in,2,1249.00,Vertex Labs
+2026-06-23,usb-c hub,6,39.50,Blue Ocean Ltd
+2026-03-16,wireless mouse,3,24.90,Vertex Labs
+2026-02-24,  Mechanical Keyboard ,2,89.00,Acme Corp
+2026-06-13,External SSD 1TB,4,119.00,Vertex Labs
+2026-06-09,HEADSET PRO,3,129.00,Vertex Labs
+2026-03-18,  Mechanical Keyboard ,3,89.00,Northwind Traders
+2026-05-31,External SSD 1TB,4,119.00,Harbor Logistics
+2026-03-09,Headset Pro,3,129.00,Greenfield Clinic
+2026-05-05,  Laptop 14in ,1,1249.00,Pixel Studio
+2026-05-24,USB-C HUB,1,39.50,Blue Ocean Ltd
+2026-01-26,  Laptop Stand ,4,45.00,Acme Corp
+2026-01-10,HEADSET PRO,6,129.00,Greenfield Clinic
+2026-01-14,mechanical keyboard,3,89.00,Pixel Studio
+2026-04-01,wireless mouse,2,24.90,Pixel Studio
+2026-03-05,USB-C HUB,1,39.50,Acme Corp
+2026-05-20,headset pro,6,129.00,Greenfield Clinic
+2026-05-09,webcam hd,6,59.90,Northwind Traders
+2026-01-04,Headset Pro,1,129.00,Summit Accounting
+2026-02-01,Webcam HD,4,59.90,Vertex Labs
+2026-05-21,  Webcam HD ,3,59.90,Northwind Traders
+2026-06-24,WEBCAM HD,3,59.90,Vertex Labs
+2026-03-16,Laptop 14in,3,1249.00,Northwind Traders
+2026-02-02,WIRELESS MOUSE,5,24.90,Pixel Studio
+2026-04-27,mechanical keyboard,6,89.00,Pixel Studio
+2026-01-25,webcam hd,2,59.90,Summit Accounting
+2026-01-26,LAPTOP 14IN,3,1249.00,Blue Ocean Ltd
+2026-03-29,Laptop Stand,6,45.00,Pixel Studio
+2026-01-17,  Laptop Stand ,1,45.00,Summit Accounting
+2026-03-08,USB-C HUB,6,39.50,Vertex Labs
+2026-06-23,External SSD 1TB,3,119.00,Harbor Logistics
+2026-03-11,HEADSET PRO,4,129.00,Summit Accounting
+2026-01-02,  Laptop 14in ,3,1249.00,Vertex Labs
+2026-06-07,  Wireless Mouse ,1,24.90,Blue Ocean Ltd
+2026-05-15,headset pro,3,129.00,Summit Accounting
+2026-02-01,USB-C Hub,6,39.50,Vertex Labs
+2026-04-17,  Laptop Stand ,1,45.00,Acme Corp
+2026-03-22,HEADSET PRO,5,129.00,Harbor Logistics
